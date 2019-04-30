@@ -18,4 +18,4 @@ This sum $\sum_{j} w_{ij}y_j$ is called the net input to unit *i*. This is writt
 
 *f* is known as the **activation function** of the unit. 
 
-What does this mean? There are some amount nodes $y_i$ that exists. Their importance is weighted with some weight $w_i$. This weight determines the strength of the node in making a decision. The chained results of the nodes (denotated by the sum of the nodes) is then put through an **activation function**. 
+What does this mean? There are some amount nodes $y_i$ that exists. Their importance is weighted with some weight $w_i$. This weight determines the strength of the node in making a decision. The chained results of the nodes (denotated by the sum of the nodes) is then put through an **activation function** $f$. 
