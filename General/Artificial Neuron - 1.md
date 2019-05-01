@@ -7,9 +7,11 @@ What does an artificial neuron do?
 
 Computes some function *f* of the weighted sum of its inputs
 
-$$ y_i = f(\sum_{j} w_{ij}y_j)$$
+$$ y_i = f(\sum_{j} (w_{ij}y_j) + b_i)$$
 
 $w_i$ is the weight applied to some input $y$. As far as I'm aware, $y_i$ can be some type of constant or function
+
+$b_i$ is the bias to remove false positives from the result of the neuron
 
 ![](https://cnl.salk.edu/~schraudo/teach/NNcourse/figs/unit.gif)
 
