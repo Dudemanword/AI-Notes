@@ -26,6 +26,8 @@ What this allows you to do is classify a result as "Yes" or "No".
 
 Pros:
 * It's simple to use. It's a "Yes" or a "No" - Either fully activated or not 
+* Allows less wiggle room on activations - learning becomes smoother and easier
+
 
 Cons:
 
