@@ -4,7 +4,7 @@ $$
 H[n]=
 \begin{cases}
 0, n \leq 0\\
-1, n \geq 1
+1, n > 1
 \end{cases}
 $$
 
